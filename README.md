@@ -1,0 +1,5 @@
+- 👋 Hello everybody, I’m Fernando Hipolito Jr
+- 👀 I’m interested in technology and soccer
+- 🌱 I’m currently learning Python 3, HTML and CSS, Microsoft Office Suite and other tools, I have just finished the CERT III in IT (Web Dev) at NORTHMETRO TAFE (Australia - WA)
+- 💞️ I’m looking to collaborate on projects, open source projects and ways to expand my knowledge 
+- 📫 You can reach me through my linkedin https://www.linkedin.com/in/fernandohipolitojr/
